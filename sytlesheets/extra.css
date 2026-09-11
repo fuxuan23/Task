@@ -1,0 +1,4 @@
+/* 隐藏底部“Made with Material for MkDocs”版权信息 */
+.md-copyright {
+    display: none;
+}
